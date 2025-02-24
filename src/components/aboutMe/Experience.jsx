@@ -52,7 +52,7 @@ const Experience = () => {
           </div>
 
           <div className="download  w-[250px] h-14 rounded-full text-center p-3 flex  gap-3 justify-center align-middle  active:opacity-70 ">
-           <a href="public/sabika web development.pdf" download="MirzaSabikaResume.pdf"> <button className=" text-[18px] capitalize ">download resume</button> </a>
+           <a href="/file/sabika web development.pdf" download="MirzaSabikaResume.pdf"> <button className=" text-[18px] capitalize ">download resume</button> </a>
             <HiMiniArrowDownTray />
           </div>
 

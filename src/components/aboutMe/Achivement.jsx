@@ -19,21 +19,21 @@ const Achivement = () => {
             title="java"
             subTitle="complete coding (24/12/2024)"
             des=" Core Java (OOPs, Collections, Multithreading, Exception Handling), Servlets, JSP Spring & Hibernate,JDBC & JPA, Microservice, maven tomcat."
-            link="public/certificates/Java-certificate.pdf"
+            link="/certificates/Java-certificate.pdf"
            />
         
         <ResumeCard
            title="Technology Software Development Job Simulation"
            subTitle="citi (26/11/2024)"
            des="Create a state diagram, Write a feature proposal, Query data from the web, Visualize live data"
-           link="public/certificates/CITI-SABIKA.pdf"
+           link="/certificates/CITI-SABIKA.pdf"
          />
         
          <ResumeCard
            title="React.js"
            subTitle="complete coding (02/01/2025)"
            des="Reusable and modular UI, Hooks, Context API, Redux, React Router for navigation, Fetch, Axios for RESTful APIs, Fast rendering for better performance."
-            link="public/certificates/Certificate_React.pdf"
+            link="/certificates/Certificate_React.pdf"
 
           />
 
@@ -41,7 +41,7 @@ const Achivement = () => {
            title="javaScript"
            subTitle="complete coding (24/12/2024)"
            des=" ES6+, Variables, Functions, OOP, DOM Manipulation, Callbacks, Promises, Async/Await, API Integration."
-            link="public/certificates/JavaScript-certificate.pdf"
+            link="/certificates/JavaScript-certificate.pdf"
           />
        </div>
     </div>
@@ -58,14 +58,14 @@ const Achivement = () => {
            title="java fullstack"
            subTitle="CETPA INFOTECH pvt.ltd (11/22/2024)"
            des="HTML, CSS, JavaScript, React.js, Core Java, Spring Boot, REST APIs,  MySQL, Git, GitHub, tailwind css"
-            link="public/certificates/Mirza_Sabika_java.pdf"
+            link="/certificates/Mirza_Sabika_java.pdf"
          />
 
          <ResumeCard 
             title="SQL and Relational Databases 101"
             subTitle="Cognitive Class (19/11/2010)"
             des=" SQL Basics( SELECT, INSERT, UPDATE, DELETE), Joins & Relationships(INNER, LEFT, RIGHT, FULL JOIN),  Database Management (mysql)"
-             link="public/certificates/sql.pdf"
+             link="/certificates/sql.pdf"
           />
        
          <ResumeCard
@@ -73,14 +73,14 @@ const Achivement = () => {
            subTitle="accenture (24/11/2024)"
            des="The Software Development Lifecycle (SDLC), Software Development Methodologies: Waterfall and
           Agile, The Software Testing Lifecycle (STLC),   Algorithmic Thinking"
-           link="public/certificates/acenture.pdf"
+           link="/certificates/acenture.pdf"
           />
 
           <ResumeCard
            title="Advanced Excel"
            subTitle="cetpa infotech pvt.ltd (17/08/2024)"
            des=" VLOOKUP, HLOOKUP, IF, SUMIF, Sorting, Filtering, Text Functions, Charts, Conditional Formatting."
-            link="public/certificates/msExcel.pdf"
+            link="/certificates/msExcel.pdf"
           />
        </div>
     </div>

@@ -48,19 +48,19 @@ const Education = () => {
             title="java full stack developer"
             subTitle="cetpa infotech pvt ltd (08/07/2024 - 12/01/2025)"
             des="Completed a 6-month internship as a Java Full Stack Developer, gained hands-on experience in developing web applications using Java, Spring Boot, Hibernate, React and MySQL. Worked on both front-end and back-end development, API integration, and database management. Collaborated in an Agile environment."
-            link="public/internship certificates cetpa.pdf"
+            link="/jobExperiece/internship certificates cetpa.pdf"
           />
         <ResumeCard
            title="full stack web developer"
            subTitle="unified mentor (2024 - 2025)"
            des="Completed a 2-month internship as a Full Stack Web Developer, gaining hands-on experience in developing and deploying web applications using HTML, CSS, JavaScript, React, MySQL. Worked on both front-end and back-end development, API integration, and debugging, enhancing problem-solving and teamwork skills."
-           link="public/unified mentor mirza sabika.pdf"
+           link="/jobExperiece/unified mentor mirza sabika.pdf"
          />
          <ResumeCard
            title="java full stack developer"
            subTitle="cetpa infotech pvt ltd (08/07/2024 - 12/01/2025)"
            des="Completed 6 months of intensive training in Java Full Stack Development, gaining expertise in Java, Spring Boot, Hibernate, Frontend technologies React, MySQL, and RESTful APIs. Developed and deployed web applications, improving coding, debugging, and problem-solving skills."
-          link="public/Mirza Sabika trainig certificates.pdf"
+          link="/jobExperiece/Mirza Sabika trainig certificates.pdf"
           />
        </div>
     </div>

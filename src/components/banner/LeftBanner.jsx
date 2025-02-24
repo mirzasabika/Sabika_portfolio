@@ -54,7 +54,7 @@ function LeftBanner() {
         </h2>
 
        <div className="download  w-[200px] h-14 rounded-full text-center p-3 flex  gap-3 justify-center align-middle  active:opacity-70 ">
-         <a href="public/sabika web development.pdf" download="MirzaSabikaResume.pdf"><button className=" text-[18px] capitalize   ">Download </button> </a>
+         <a href="/file/sabika web development.pdf" download="MirzaSabikaResume.pdf"><button className=" text-[18px] capitalize   ">Download </button> </a>
          <FaDownload className="text-xl mt-1"/> 
         </div>
      </div>
