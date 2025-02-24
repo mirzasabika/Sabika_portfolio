@@ -1,0 +1,51 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@0,100..900;1,100..900&family=Poppins:wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"); */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .download{
+        @apply bg-black bg-opacity-25 text-gray-200 text-xl inline-flex items-center justify-center rounded-md shadow-shadowOne hover:bg-opacity-40 hover:-translate-y-1 transition-all hover:text-designColor cursor-pointer duration-300;
+    }
+
+    .bannericon{
+        @apply w-16 h-16 bg-black bg-opacity-25 text-gray-200 text-xl inline-flex items-center justify-center rounded-md shadow-shadowOne hover:bg-opacity-40 hover:-translate-y-1 transition-all hover:text-designColor cursor-pointer duration-300;
+    }
+
+    .resumeli{
+        @apply w-full h-20 bg-black bg-opacity-25 text-gray-300 text-xl flex justify-center cursor-pointer hover:bg-opacity-40 duration-300 items-center
+        border-[1px] rounded-none ;
+
+    }
+
+    .bgOpacity{
+        @apply bg-black bg-opacity-40
+    }
+
+    .contactInput{
+        @apply w-full h-12 rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300;
+
+    }
+
+    .contactTextArea{
+        @apply w-full rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 py-4 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300 resize-none;     
+    }
+
+    .footerchild_2{
+        @apply absolute h-[1px] w-full inline-flex bg-designColor -bottom-1 left-0 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300    
+    }
+
+    .aboutMe{
+        @apply flex  flex-col fd:flex-row  lg:flex-col gap-2 border-b-[0.1px] border-gray-100 border-opacity-10 fd:w-full sml:w-[300px] tracking-widest text-designColor hover:bg-slate-500
+        hover:bg-opacity-10 fd:p-2 p-1 sml:ml-9 ml-16 fd:ml-0 w-[250px] 
+    }
+}
+
+.active{
+    color: white;
+}
+
+.scrollbar-hide::-webkit-scrollbar{
+    display:none;
+    
+}
