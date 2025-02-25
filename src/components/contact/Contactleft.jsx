@@ -11,8 +11,8 @@ const Contactleft = () => {
     
      <div className=" w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-4 lgl:p-8  shadow-shadowOne flex flex-col  gap-8 justify-center ">
                       
-               <div className="sml:items-center">
-                     <img className=" w-48 lgl:w-full h-[200px] lgl:h-[330px] lgl:object-cover mb-2 "
+               <div className="  sm:justify-center flex lgl:justify-start justify-start ">
+                     <img className=" w-48 lgl:w-full h-[200px] lgl:h-[330px] lgl:object-cover mb-2 sml:items-center mdl:items-center  "
                       
                       src={images.contact} alt="contact img" 
                     />
