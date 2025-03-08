@@ -2,7 +2,7 @@
 
 import logo from'./logo.png';
 import bannerImg from'./bannerImg.png';
-import music from'./music.jpg';
+import apple from'./apple.png';
 import weather from'./weather.jpg';
 import gemini from'./Gemini.jpg';
 import calculator from'./calculator.jpg';
