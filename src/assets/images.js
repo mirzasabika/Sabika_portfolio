@@ -17,7 +17,7 @@ export const images={
   calculator,
   gemini,
   weather,
-  music,
+  apple,
   food,
   eCommerce,
   contact,
