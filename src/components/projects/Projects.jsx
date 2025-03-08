@@ -27,11 +27,11 @@ const Projects = () => {
         />
 
 <ProjectCard 
-        title="music website"
-        des="Developed a music website using HTML and CSS, featuring a responsive design, interactive UI, and smooth navigation. Designed engaging layouts, integrated multimedia elements, and optimized performance for a seamless user experience."
+        title="Apple website"
+        des="Developed Apple  website using React.js and Three js, featuring a responsive design, interactive UI, and smooth navigation. Designed engaging layouts, integrated multimedia elements, and optimized performance for a seamless user experience."
         src={images.music}
         gitLink =""
-        globeLink = ""
+        globeLink = "https://apple-website-lake-seven.vercel.app/"
         />
 
 <ProjectCard 
